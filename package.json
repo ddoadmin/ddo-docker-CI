@@ -7,7 +7,7 @@
   "author": "Deepak <deepakd_fic@yahoo.com>",
   "license": "Please dont use this for Production, this is only for test or demo purpose",
   "dependencies": {
-    "express": "3.2.4",
+    "express": "3.11.0",
     "jade": "1.11.0",
     "mocha": "1.20.1",
     "supertest": "1.1.0"
